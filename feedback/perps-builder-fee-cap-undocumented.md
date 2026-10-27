@@ -32,5 +32,5 @@ tables searched.
 
 SDK version: not recorded in the original report
 Network: Somnia Tokyo testnet (Hideki chain 50383)
-Wallet address: (to be added by submitter)
+Wallet address: 0xA3172a1ff52524803A2232BB9AB4d68F180EBbC6
 Date tested: October 2026
